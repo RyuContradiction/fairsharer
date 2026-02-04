@@ -1,4 +1,3 @@
-import pytest
 from Vermoegen import fair_sharer
 import numpy as np
 
