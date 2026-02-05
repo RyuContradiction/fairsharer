@@ -9,7 +9,7 @@ The project setup is documented in [project_setup.md](project_setup.md). Feel fr
 To install my_python_package from GitHub repository, do:
 
 ```console
-git clone https://github.com/<my-github-organization>/fairsharer.git
+git clone https://github.com/RyuContradiction/fairsharer.git
 cd fairsharer
 python -m pip install .
 # or on mac: python3 -m pip install .
